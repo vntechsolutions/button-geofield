@@ -1,0 +1,7 @@
+name: 'Button Geofield'
+description: 'Provide View Map button for map.'
+core_version_requirement: ^8.8 || ^9 || 10
+type: module
+package: Geofield
+dependencies:
+  - geofield:geofield
